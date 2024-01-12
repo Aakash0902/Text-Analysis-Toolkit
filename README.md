@@ -1,10 +1,10 @@
-## Text-Analysis-Toolkit
+# Text-Analysis-Toolkit
 Versatile Text Analysis Toolset
 
-# Introduction
+## Introduction
 This project is designed to analyze word data from text files, providing various functionalities such as counting occurrences, plotting letter frequencies, counting printed words over the years, finding trending words, and identifying words similar to a given word.
 
-# Features
+## Features
 
 - Count occurrences of words in a text file.
 - Plot letter frequencies in the given word data.
@@ -12,7 +12,7 @@ This project is designed to analyze word data from text files, providing various
 - Identify top trending words within a specified time range.
 - Find words similar to a given word using a similarity metric.
 
-# File Descriptions
+## File Descriptions
 
 wordData.py: Module to read a text file and create dictionaries of word occurrences.
 letterFreq.py: Module to plot letter frequencies based on word data.
