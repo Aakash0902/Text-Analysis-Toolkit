@@ -14,8 +14,8 @@ This project is designed to analyze word data from text files, providing various
 
 ## File Descriptions
 
-wordData.py: Module to read a text file and create dictionaries of word occurrences.
-letterFreq.py: Module to plot letter frequencies based on word data.
-printedWords.py: Module to count printed words over the years.
-trending.py: Module to find top trending words within a specified time range.
-wordSimilarity.py: Module to identify words similar to a given word.
+- wordData.py: Module to read a text file and create dictionaries of word occurrences.
+- letterFreq.py: Module to plot letter frequencies based on word data.
+- printedWords.py: Module to count printed words over the years.
+- trending.py: Module to find top trending words within a specified time range.
+- wordSimilarity.py: Module to identify words similar to a given word.
